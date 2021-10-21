@@ -1,7 +1,7 @@
 # Capture The Flag Resources
 
 Learning resources for upcomin capture the flag at NMTAFE 
-If you would like to assist to the list, please contact 20047398@tafe.wa.edu.au(mailto:20047398@tafe.wa.edu.au)
+If you would like to assist to the list, please contact [20047398@tafe.wa.edu.au](mailto:20047398@tafe.wa.edu.au)
 
 ### Videos Tutorials:  
 
@@ -21,4 +21,4 @@ If you would like to assist to the list, please contact 20047398@tafe.wa.edu.au(
 
 ### Practice 
 
-- [pico]CTF(https://picoctf.org/)
+- [picoCTF](https://picoctf.org/)
